@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+    "target": "ESNext",
+    "lib": ["DOM", "ESNext"],
+    "module": "ESNext",
+    "rootDir": "./",
+    "moduleResolution": "node",
+    "types": [],
+    "outDir": "../dist/client",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+    }
+    }
+
+    // {
+    //     "compilerOptions": {
+    //     // Same as before
+    //     },
+    //     "references": [
+    //     { "path": "../shared/tsconfig.json" }
+    //     ]
+    //     }
